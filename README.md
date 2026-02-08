@@ -48,7 +48,7 @@ and apply my technical skills to meaningful industry problems.
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **vigneshadhi773@gmail.com**  
+- 📧 Email: **aadhevignesh65@gmail.com**  
 - 💼 LinkedIn: **https://www.linkedin.com/in/adhi-vignesh-342431289**  
 - 🧑‍💻 GitHub: **https://github.com/VIGNESH79899**  
 
