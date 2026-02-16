@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning) Student  
 💻 Aspiring AI / Software Engineering Intern  
-📍 Hyderabad, India  
+📍 Hyderabad, Telangana, India  
 
 ---
 
@@ -42,8 +42,8 @@ and apply my technical skills to meaningful industry problems.
 ## 📈 Currently Learning & Exploring
 - Machine Learning algorithms and model evaluation  
 - Neural Networks and deep learning fundamentals  
-- Advanced React.js and frontend architecture  
-- Data Visualization and analytics using Power BI  
+- Advanced React.js and frontend architecture
+- Basics of DSA   
 
 ---
 
