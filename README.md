@@ -5,22 +5,23 @@
   Hi, I'm <strong>Adhi Vignesh</strong>
 </h1>
 
-<h3>B.Tech CSE (AI & ML) Student | Aspiring AI / Software Engineering Intern</h3>
+<h3>AI & ML Undergraduate | Software Engineering Enthusiast</h3>
 
 <div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I am a passionate Computer Science undergraduate specializing in 
-    <strong>Artificial Intelligence and Machine Learning</strong>, 
-    with a strong foundation in software development, data structures, 
-    and mathematical problem-solving.
+    I’m a B.Tech Computer Science student specializing in 
+    <strong>Artificial Intelligence & Machine Learning</strong>, 
+    with a strong foundation in problem-solving, data structures, 
+    and mathematical modeling.
   </p>
 
   <p>
-    I enjoy building real-world, project-based solutions that combine 
-    AI concepts, clean code, and practical design. My interests span 
-    AI/ML, Data Science, and Full-Stack Web Development.
+    I enjoy building <strong>real-world AI-driven applications</strong> 
+    that combine clean code, structured architecture, and practical impact.
+    My focus areas include AI/ML systems, data-driven solutions, and 
+    scalable web applications.
   </p>
 
   <p>
@@ -28,11 +29,80 @@
     <a href="mailto:aadhevignesh65@gmail.com">
       <img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" />
     </a>
-    <img src="https://img.shields.io/badge/🎯_Open_to_Internships-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎯_Open_to_AI_Internships-1e1e2e?style=for-the-badge" />
   </p>
 
-<h3>🌐 Connect With Me</h3>
-  
+</div>
+
+<br clear="all" />
+
+---
+
+## 🧠 Technical Skills
+
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 💻 Programming
+<img src="https://skillicons.dev/icons?i=c,python,js,typescript" />
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🤖 AI / ML
+Linear Regression • Classification • Data Preprocessing • Model Evaluation
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+
+</td>
+</tr>
+</table>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **PixelBoost** – Startup-focused platform built using React.js & TypeScript  
+🔹 **Eco-Track** – Smart CO₂ emission tracking application  
+🔹 **Movie Recommendation System** – ML-based personalized recommendation engine  
+🔹 **Population Growth Prediction** – Mathematical forecasting model  
+🔹 **Personal Portfolio Website** – Professional responsive branding site  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VIGNESH79899&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VIGNESH79899&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://github.com/VIGNESH79899">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
@@ -43,80 +113,6 @@
   </a>
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=VIGNESH79899&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
-
 ---
 
-## 🛠️ Skills
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=c,python,js,typescript" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-<h3>🌐 Web Development</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<h3>🤖 AI & ML Fundamentals</h3>
-
-<img src="https://skillicons.dev/icons?i=python" />
-<p>Linear Regression • Classification • Data Preprocessing • Model Training</p>
-
-</td>
-
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
-
-</td>
-</tr>
-</table>
-</p>
-
----
-
-## 📌 Featured Projects
-
-- 🚀 **PixelBoost** – Startup-focused web project built using React.js & TypeScript  
-- 🌱 **Eco-Track** – Smart CO₂ emission tracking application  
-- 🎬 **Movie Recommendation System** – Recommendation-based data science project  
-- 📊 **Population Growth Prediction** – Mathematical model using historical datasets  
-- 💼 **Personal Portfolio Website** – Responsive professional portfolio  
-
----
-
-## 📈 Currently Learning
-
-- Machine Learning algorithms & model evaluation  
-- Neural Networks & Deep Learning fundamentals  
-- Advanced React.js & Frontend Architecture  
-- Data Structures & Algorithms  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=VIGNESH79899&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
----
-
-⭐ <i>Thank you for visiting my profile. Feel free to explore my repositories or connect with me!</i>
+⭐ <i>Building intelligent systems. Writing clean code. Growing every day.</i>
