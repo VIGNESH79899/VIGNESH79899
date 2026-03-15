@@ -96,6 +96,7 @@ Linear Regression • Classification • Data Preprocessing • Model Evaluation
 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VIGNESH79899&layout=compact&theme=tokyonight&hide_border=true" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH79899&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -103,7 +104,7 @@ Linear Regression • Classification • Data Preprocessing • Model Evaluation
 ## 🏙 3D Contribution City
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/VIGNESH79899/VIGNESH79899/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://raw.githubusercontent.com/VIGNESH79899/VIGNESH79899/main/profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 
 ---
