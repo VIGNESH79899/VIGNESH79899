@@ -38,14 +38,18 @@
 
 ---
 
-## 🧠 Technical Skills
+# 🧠 Technical Skills
 
 <p align="center">
+
 <table>
+
 <tr>
+
 <td width="50%" align="center">
 
 ### 💻 Programming
+
 <img src="https://skillicons.dev/icons?i=c,python,js,typescript" />
 
 </td>
@@ -53,55 +57,66 @@
 <td width="50%" align="center">
 
 ### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" />
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" align="center">
 
 ### 🤖 AI / ML
-Linear Regression • Classification • Data Preprocessing • Model Evaluation
+
+Machine Learning • Data Preprocessing • Model Evaluation • Classification • Regression
 
 </td>
 
 <td width="50%" align="center">
 
 ### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,docker" />
 
 </td>
+
 </tr>
+
 </table>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-🔹 **PixelBoost** – Startup-focused platform built using React.js & TypeScript  
-🔹 **Eco-Track** – Smart CO₂ emission tracking application  
-🔹 **Movie Recommendation System** – ML-based personalized recommendation engine  
-🔹 **Population Growth Prediction** – Mathematical forecasting model  
-🔹 **Personal Portfolio Website** – Professional responsive branding site  
+🔹 **PixelBoost** – Startup-focused platform built using React.js & TypeScript
+🔹 **Eco-Track** – Smart CO₂ emission tracking application
+🔹 **Movie Recommendation System** – ML-based personalized recommendation engine
+🔹 **Population Growth Prediction** – Mathematical forecasting model
+🔹 **Personal Portfolio Website** – Professional responsive branding site
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VIGNESH79899&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VIGNESH79899&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VIGNESH79899&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIGNESH79899&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH79899&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🏙 3D Contribution City
+# 🏙 3D Contribution City
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/VIGNESH79899/VIGNESH79899/main/profile-3d-contrib/profile-night-rainbow.svg">
@@ -109,24 +124,26 @@ Linear Regression • Classification • Data Preprocessing • Model Evaluation
 
 ---
 
----
-
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VIGNESH79899/VIGNESH79899/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/VIGNESH79899/VIGNESH79899/output/github-contribution-grid-snake.svg" />
 </p>
 
-## 🌐 Connect With Me
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/VIGNESH79899">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/adhi-vignesh-342431289">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
+<a href="https://github.com/VIGNESH79899">
+<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/adhi-vignesh-342431289">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+</a>
+
 </p>
 
 ---
