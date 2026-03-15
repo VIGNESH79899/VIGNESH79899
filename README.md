@@ -109,6 +109,14 @@ Linear Regression • Classification • Data Preprocessing • Model Evaluation
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VIGNESH79899/VIGNESH79899/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## 🌐 Connect With Me
 
 <p align="left">
